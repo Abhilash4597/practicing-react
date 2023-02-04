@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Search() {
+function Weather() {
   return (
     <>
       <input type="text" />
@@ -12,4 +12,4 @@ function Search() {
   );
 }
 
-export default Search
+export default Weather
